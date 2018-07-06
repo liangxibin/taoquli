@@ -1,0 +1,240 @@
+::1-----set names utf8-----17:23:54
+::1-----select * from taoquli_webset where type=1 or type=0 -----17:23:54
+::1-----select * from taoquli_webset where type=2 -----17:23:54
+::1-----select val from taoquli_webset where var="authorize" limit 1-----17:23:54
+::1-----set names utf8-----17:23:55
+::1-----select * from taoquli_webset where type=1 or type=0 -----17:23:55
+::1-----select * from taoquli_webset where type=2 -----17:23:55
+::1-----select val from taoquli_webset where var="authorize" limit 1-----17:23:55
+::1-----set names utf8-----17:24:01
+::1-----select * from taoquli_webset where type=1 or type=0 -----17:24:01
+::1-----select * from taoquli_webset where type=2 -----17:24:01
+::1-----select val from taoquli_webset where var="authorize" limit 1-----17:24:01
+::1-----select * from taoquli_duoduo2010 where adminname="admin" and adminpass="7f10cd04a79fd8c0c8f3ec582ec3bc94" limit 1-----17:24:01
+::1-----update taoquli_duoduo2010 set `lastlogintime`='0',`lastloginip`='',`loginnum`=`loginnum`+'1',`logintime`='1469611440',`loginip`='::1' where id=1 limit 1-----17:24:01
+::1-----select a.id from taoquli_menu as a,taoquli_menu_access as b where a.`mod`="webset" and a.`act`="center" and a.id=b.menu_id and b.role_id="1" limit 1-----17:24:01
+::1-----set names utf8-----17:24:02
+::1-----select * from taoquli_webset where type=1 or type=0 -----17:24:02
+::1-----select * from taoquli_webset where type=2 -----17:24:02
+::1-----select val from taoquli_webset where var="authorize" limit 1-----17:24:02
+::1-----select a.id from taoquli_menu as a,taoquli_menu_access as b where a.`mod`="webset" and a.`act`="center" and a.id=b.menu_id and b.role_id="1" limit 1-----17:24:02
+::1-----select a.* from taoquli_menu as a,taoquli_menu_access as b where a.id=b.menu_id and b.role_id='1' and a.mod<>'fun' order by a.listorder desc,a.sort desc,a.id asc-----17:24:02
+::1-----set names utf8-----17:24:03
+::1-----select * from taoquli_webset where type=1 or type=0 -----17:24:03
+::1-----set names utf8-----17:24:03
+::1-----select * from taoquli_webset where type=1 or type=0 -----17:24:03
+::1-----select * from taoquli_webset where type=2 -----17:24:03
+::1-----select * from taoquli_webset where type=2 -----17:24:03
+::1-----select val from taoquli_webset where var="authorize" limit 1-----17:24:03
+::1-----select a.id from taoquli_menu as a,taoquli_menu_access as b where a.`mod`="webset" and a.`act`="center" and a.id=b.menu_id and b.role_id="1" limit 1-----17:24:03
+::1-----select val from taoquli_webset where var="authorize" limit 1-----17:24:03
+::1-----select a.* from taoquli_menu as a,taoquli_menu_access as b where a.id=b.menu_id and b.role_id='1' and a.mod<>'fun' order by a.listorder desc,a.sort desc,a.id asc-----17:24:03
+::1-----select * from taoquli_duoduo2010 where id="1" limit 1-----17:24:03
+::1-----select a.id from taoquli_menu as a,taoquli_menu_access as b where a.`mod`="webset" and a.`act`="center" and a.id=b.menu_id and b.role_id="1" limit 1-----17:24:03
+::1-----select a.* from taoquli_menu as a,taoquli_menu_access as b where a.id=b.menu_id and b.role_id='1' and a.mod<>'fun' order by a.listorder desc,a.sort desc,a.id asc-----17:24:03
+::1-----set names utf8-----17:24:04
+::1-----select * from taoquli_webset where type=1 or type=0 -----17:24:04
+::1-----select * from taoquli_webset where type=2 -----17:24:04
+::1-----select val from taoquli_webset where var="authorize" limit 1-----17:24:04
+::1-----select a.id from taoquli_menu as a,taoquli_menu_access as b where a.`mod`="webset" and a.`act`="center" and a.id=b.menu_id and b.role_id="1" limit 1-----17:24:04
+::1-----select a.* from taoquli_menu as a,taoquli_menu_access as b where a.id=b.menu_id and b.role_id='1' and a.mod<>'fun' order by a.listorder desc,a.sort desc,a.id asc-----17:24:04
+::1-----set names utf8-----17:24:06
+::1-----select * from taoquli_webset where type=1 or type=0 -----17:24:06
+::1-----select * from taoquli_webset where type=2 -----17:24:06
+::1-----select val from taoquli_webset where var="authorize" limit 1-----17:24:06
+::1-----select a.id from taoquli_menu as a,taoquli_menu_access as b where a.`mod`="webset" and a.`act`="center" and a.id=b.menu_id and b.role_id="1" limit 1-----17:24:06
+::1-----select a.* from taoquli_menu as a,taoquli_menu_access as b where a.id=b.menu_id and b.role_id='1' and a.mod<>'fun' order by a.listorder desc,a.sort desc,a.id asc-----17:24:06
+::1-----select title from taoquli_menu where `mod`="mall" and act="set" limit 1-----17:24:07
+::1-----set names utf8-----17:24:17
+::1-----select * from taoquli_webset where type=1 or type=0 -----17:24:17
+::1-----select * from taoquli_webset where type=2 -----17:24:17
+::1-----select val from taoquli_webset where var="authorize" limit 1-----17:24:17
+::1-----select a.id from taoquli_menu as a,taoquli_menu_access as b where a.`mod`="webset" and a.`act`="center" and a.id=b.menu_id and b.role_id="1" limit 1-----17:24:17
+::1-----select a.* from taoquli_menu as a,taoquli_menu_access as b where a.id=b.menu_id and b.role_id='1' and a.mod<>'fun' order by a.listorder desc,a.sort desc,a.id asc-----17:24:17
+::1-----set names utf8-----17:24:36
+::1-----select * from taoquli_webset where type=1 or type=0 -----17:24:36
+::1-----select * from taoquli_webset where type=2 -----17:24:36
+::1-----select val from taoquli_webset where var="authorize" limit 1-----17:24:36
+::1-----select a.id from taoquli_menu as a,taoquli_menu_access as b where a.`mod`="webset" and a.`act`="center" and a.id=b.menu_id and b.role_id="1" limit 1-----17:24:36
+::1-----select a.* from taoquli_menu as a,taoquli_menu_access as b where a.id=b.menu_id and b.role_id='1' and a.mod<>'fun' order by a.listorder desc,a.sort desc,a.id asc-----17:24:36
+::1-----set names utf8-----17:24:39
+::1-----select * from taoquli_webset where type=1 or type=0 -----17:24:39
+::1-----select * from taoquli_webset where type=2 -----17:24:39
+::1-----select val from taoquli_webset where var="authorize" limit 1-----17:24:39
+::1-----select a.id from taoquli_menu as a,taoquli_menu_access as b where a.`mod`="webset" and a.`act`="center" and a.id=b.menu_id and b.role_id="1" limit 1-----17:24:39
+::1-----select a.* from taoquli_menu as a,taoquli_menu_access as b where a.id=b.menu_id and b.role_id='1' and a.mod<>'fun' order by a.listorder desc,a.sort desc,a.id asc-----17:24:39
+::1-----select title from taoquli_menu where `mod`="tradelist" and act="set" limit 1-----17:24:39
+::1-----set names utf8-----17:24:43
+::1-----select * from taoquli_webset where type=1 or type=0 -----17:24:43
+::1-----select * from taoquli_webset where type=2 -----17:24:43
+::1-----select val from taoquli_webset where var="authorize" limit 1-----17:24:43
+::1-----select a.id from taoquli_menu as a,taoquli_menu_access as b where a.`mod`="webset" and a.`act`="center" and a.id=b.menu_id and b.role_id="1" limit 1-----17:24:43
+::1-----select a.* from taoquli_menu as a,taoquli_menu_access as b where a.id=b.menu_id and b.role_id='1' and a.mod<>'fun' order by a.listorder desc,a.sort desc,a.id asc-----17:24:43
+::1-----select id from taoquli_mall where 1 limit 1-----17:24:43
+::1-----show fields from `taoquli_taopid`-----17:24:43
+::1-----show fields from `taoquli_taopid`-----17:24:43
+::1-----select count(1) as num from taoquli_taopid where `title` like '%%' -----17:24:43
+::1-----select * from taoquli_taopid where `title` like "%%"  order by  id desc limit 0,20 -----17:24:43
+::1-----select title from taoquli_menu where `mod`="taopid" and act="list" limit 1-----17:24:43
+::1-----set names utf8-----17:24:46
+::1-----select * from taoquli_webset where type=1 or type=0 -----17:24:46
+::1-----select * from taoquli_webset where type=2 -----17:24:46
+::1-----select val from taoquli_webset where var="authorize" limit 1-----17:24:46
+::1-----select a.id from taoquli_menu as a,taoquli_menu_access as b where a.`mod`="webset" and a.`act`="center" and a.id=b.menu_id and b.role_id="1" limit 1-----17:24:46
+::1-----select a.* from taoquli_menu as a,taoquli_menu_access as b where a.id=b.menu_id and b.role_id='1' and a.mod<>'fun' order by a.listorder desc,a.sort desc,a.id asc-----17:24:46
+::1-----select title from taoquli_menu where `mod`="tradelist" and act="set" limit 1-----17:24:46
+::1-----set names utf8-----17:24:50
+::1-----select * from taoquli_webset where type=1 or type=0 -----17:24:50
+::1-----select * from taoquli_webset where type=2 -----17:24:50
+::1-----select val from taoquli_webset where var="authorize" limit 1-----17:24:50
+::1-----select a.id from taoquli_menu as a,taoquli_menu_access as b where a.`mod`="webset" and a.`act`="center" and a.id=b.menu_id and b.role_id="1" limit 1-----17:24:50
+::1-----select a.* from taoquli_menu as a,taoquli_menu_access as b where a.id=b.menu_id and b.role_id='1' and a.mod<>'fun' order by a.listorder desc,a.sort desc,a.id asc-----17:24:50
+::1-----select id from taoquli_mall where 1 limit 1-----17:24:50
+::1-----select title from taoquli_menu where `mod`="webset" and act="set" limit 1-----17:24:50
+::1-----set names utf8-----17:25:22
+::1-----select * from taoquli_webset where type=1 or type=0 -----17:25:22
+::1-----select * from taoquli_webset where type=2 -----17:25:22
+::1-----select val from taoquli_webset where var="authorize" limit 1-----17:25:22
+::1-----select a.id from taoquli_menu as a,taoquli_menu_access as b where a.`mod`="webset" and a.`act`="center" and a.id=b.menu_id and b.role_id="1" limit 1-----17:25:22
+::1-----select a.* from taoquli_menu as a,taoquli_menu_access as b where a.id=b.menu_id and b.role_id='1' and a.mod<>'fun' order by a.listorder desc,a.sort desc,a.id asc-----17:25:22
+::1-----insert into taoquli_adminlog set `mod`='webset',`admin_name`='admin',`addtime`='1469611521',`ip`='::1',`do`='set'-----17:25:22
+::1-----select id,var from taoquli_webset where 1=1 -----17:25:22
+::1-----update taoquli_webset set `type`='0',`val`='0' where var="webclose" limit 1-----17:25:22
+::1-----select id,var from taoquli_webset where 1=1 -----17:25:22
+::1-----update taoquli_webset set `type`='0',`val`='网站升级中。。。' where var="webclosemsg" limit 1-----17:25:22
+::1-----select id,var from taoquli_webset where 1=1 -----17:25:22
+::1-----update taoquli_webset set `type`='0',`val`='' where var="webcloseallowip" limit 1-----17:25:22
+::1-----select id,var from taoquli_webset where 1=1 -----17:25:22
+::1-----update taoquli_webset set `type`='2',`val`='淘趣利返利网' where var="webname" limit 1-----17:25:22
+::1-----select id,var from taoquli_webset where 1=1 -----17:25:22
+::1-----update taoquli_webset set `type`='2',`val`='localhost/V8.3_UTF8_20160629' where var="url" limit 1-----17:25:22
+::1-----select id,var from taoquli_webset where 1=1 -----17:25:22
+::1-----update taoquli_webset set `type`='2',`val`='/V8.3_UTF8_20160629' where var="url_mulu" limit 1-----17:25:22
+::1-----select id,var from taoquli_webset where 1=1 -----17:25:22
+::1-----update taoquli_webset set `type`='0',`val`='email' where var="email" limit 1-----17:25:22
+::1-----select id,var from taoquli_webset where 1=1 -----17:25:22
+::1-----update taoquli_webset set `type`='0',`val`='qq' where var="qq" limit 1-----17:25:22
+::1-----select id,var from taoquli_webset where 1=1 -----17:25:22
+::1-----update taoquli_webset set `type`='0',`val`='0' where var="gzip" limit 1-----17:25:22
+::1-----select id,var from taoquli_webset where 1=1 -----17:25:22
+::1-----update taoquli_webset set `type`='0',`val`='wap' where var="md_access" limit 1-----17:25:22
+::1-----select id,var from taoquli_webset where 1=1 -----17:25:22
+::1-----update taoquli_webset set `type`='2',`val`='1' where var="webtype" limit 1-----17:25:22
+::1-----select id,var from taoquli_webset where 1=1 -----17:25:22
+::1-----update taoquli_webset set `type`='0',`val`='Copyright ©2008-2015&nbsp;&nbsp; <a href=\"http://www.taoquli.com\" target=\"_blank\">淘趣利返利网</a>&nbsp;&nbsp;&nbsp;<a href=\"index.php?mod=about&amp;act=index\" target=\"_blank\">关于我们</a>&nbsp;' where var="banquan" limit 1-----17:25:22
+::1-----select id,var from taoquli_webset where 1=1 -----17:25:22
+::1-----update taoquli_webset set `type`='0',`val`='19934' where var="siteid" limit 1-----17:25:22
+::1-----select * from taoquli_webset where type=1 or type=0 -----17:25:22
+::1-----select * from taoquli_webset where type=2 -----17:25:22
+::1-----set names utf8-----17:25:28
+::1-----select * from taoquli_webset where type=1 or type=0 -----17:25:28
+::1-----select * from taoquli_webset where type=2 -----17:25:28
+::1-----select val from taoquli_webset where var="authorize" limit 1-----17:25:28
+::1-----select a.id from taoquli_menu as a,taoquli_menu_access as b where a.`mod`="webset" and a.`act`="center" and a.id=b.menu_id and b.role_id="1" limit 1-----17:25:28
+::1-----select a.* from taoquli_menu as a,taoquli_menu_access as b where a.id=b.menu_id and b.role_id='1' and a.mod<>'fun' order by a.listorder desc,a.sort desc,a.id asc-----17:25:28
+::1-----select id from taoquli_mall where 1 limit 1-----17:25:28
+::1-----select title from taoquli_menu where `mod`="webset" and act="set" limit 1-----17:25:28
+::1-----set names utf8-----17:36:56
+::1-----select * from taoquli_webset where type=1 or type=0 -----17:36:56
+::1-----select * from taoquli_webset where type=2 -----17:36:56
+::1-----select val from taoquli_webset where var="authorize" limit 1-----17:36:56
+::1-----select a.id from taoquli_menu as a,taoquli_menu_access as b where a.`mod`="webset" and a.`act`="center" and a.id=b.menu_id and b.role_id="1" limit 1-----17:36:56
+::1-----select a.* from taoquli_menu as a,taoquli_menu_access as b where a.id=b.menu_id and b.role_id='1' and a.mod<>'fun' order by a.listorder desc,a.sort desc,a.id asc-----17:36:56
+::1-----insert into taoquli_adminlog set `mod`='webset',`admin_name`='admin',`addtime`='1469612215',`ip`='::1',`do`='set'-----17:36:56
+::1-----select id,var from taoquli_webset where 1=1 -----17:36:56
+::1-----update taoquli_webset set `type`='0',`val`='0' where var="webclose" limit 1-----17:36:56
+::1-----select id,var from taoquli_webset where 1=1 -----17:36:56
+::1-----update taoquli_webset set `type`='0',`val`='网站升级中。。。' where var="webclosemsg" limit 1-----17:36:56
+::1-----select id,var from taoquli_webset where 1=1 -----17:36:56
+::1-----update taoquli_webset set `type`='0',`val`='' where var="webcloseallowip" limit 1-----17:36:56
+::1-----select id,var from taoquli_webset where 1=1 -----17:36:56
+::1-----update taoquli_webset set `type`='2',`val`='淘趣利返利网' where var="webname" limit 1-----17:36:56
+::1-----select id,var from taoquli_webset where 1=1 -----17:36:56
+::1-----update taoquli_webset set `type`='2',`val`='localhost/V8.3_UTF8_20160629' where var="url" limit 1-----17:36:56
+::1-----select id,var from taoquli_webset where 1=1 -----17:36:56
+::1-----update taoquli_webset set `type`='2',`val`='/V8.3_UTF8_20160629' where var="url_mulu" limit 1-----17:36:56
+::1-----select id,var from taoquli_webset where 1=1 -----17:36:56
+::1-----update taoquli_webset set `type`='0',`val`='email' where var="email" limit 1-----17:36:56
+::1-----select id,var from taoquli_webset where 1=1 -----17:36:56
+::1-----update taoquli_webset set `type`='0',`val`='qq' where var="qq" limit 1-----17:36:56
+::1-----select id,var from taoquli_webset where 1=1 -----17:36:56
+::1-----update taoquli_webset set `type`='0',`val`='0' where var="gzip" limit 1-----17:36:56
+::1-----select id,var from taoquli_webset where 1=1 -----17:36:56
+::1-----update taoquli_webset set `type`='0',`val`='wap' where var="md_access" limit 1-----17:36:56
+::1-----select id,var from taoquli_webset where 1=1 -----17:36:56
+::1-----update taoquli_webset set `type`='2',`val`='1' where var="webtype" limit 1-----17:36:56
+::1-----select id,var from taoquli_webset where 1=1 -----17:36:56
+::1-----update taoquli_webset set `type`='0',`val`='Copyright ©2008-2015&nbsp;&nbsp; <a href=\"http://www.taoquli.com\" target=\"_blank\">淘趣利返利网</a>&nbsp;&nbsp;&nbsp;<a href=\"index.php?mod=about&amp;act=index\" target=\"_blank\">关于我们</a>&nbsp;' where var="banquan" limit 1-----17:36:56
+::1-----select id,var from taoquli_webset where 1=1 -----17:36:56
+::1-----update taoquli_webset set `type`='0',`val`='19934' where var="siteid" limit 1-----17:36:56
+::1-----select * from taoquli_webset where type=1 or type=0 -----17:36:56
+::1-----select * from taoquli_webset where type=2 -----17:36:56
+::1-----set names utf8-----17:36:59
+::1-----select * from taoquli_webset where type=1 or type=0 -----17:36:59
+::1-----select * from taoquli_webset where type=2 -----17:36:59
+::1-----select val from taoquli_webset where var="authorize" limit 1-----17:36:59
+::1-----select a.id from taoquli_menu as a,taoquli_menu_access as b where a.`mod`="webset" and a.`act`="center" and a.id=b.menu_id and b.role_id="1" limit 1-----17:36:59
+::1-----select a.* from taoquli_menu as a,taoquli_menu_access as b where a.id=b.menu_id and b.role_id='1' and a.mod<>'fun' order by a.listorder desc,a.sort desc,a.id asc-----17:36:59
+::1-----select id from taoquli_mall where 1 limit 1-----17:36:59
+::1-----select title from taoquli_menu where `mod`="webset" and act="set" limit 1-----17:36:59
+::1-----set names utf8-----17:37:24
+::1-----select * from taoquli_webset where type=1 or type=0 -----17:37:24
+::1-----select * from taoquli_webset where type=2 -----17:37:24
+::1-----select val from taoquli_webset where var="authorize" limit 1-----17:37:24
+::1-----select a.id from taoquli_menu as a,taoquli_menu_access as b where a.`mod`="webset" and a.`act`="center" and a.id=b.menu_id and b.role_id="1" limit 1-----17:37:24
+::1-----select a.* from taoquli_menu as a,taoquli_menu_access as b where a.id=b.menu_id and b.role_id='1' and a.mod<>'fun' order by a.listorder desc,a.sort desc,a.id asc-----17:37:24
+::1-----select id from taoquli_mall where 1 limit 1-----17:37:24
+::1-----select * from taoquli_domain where `mod`="goods" and close=0 limit 1-----17:37:24
+::1-----ALTER TABLE `taoquli_goods` CHANGE `tg_url` `tg_url` TEXT CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL;-----17:37:24
+::1-----ALTER TABLE  `taoquli_goods` CHANGE  `nick`  `nick` VARCHAR( 20 ) CHARACTER SET utf8 COLLATE utf8_general_ci NULL-----17:37:24
+::1-----ALTER TABLE `taoquli_mall` ADD `is_search` tinyint(1) DEFAULT '0'-----17:37:24
+::1-----select * from taoquli_adminlog where 1=1 order by id desc limit 5 -----17:37:24
+::1-----select count(1) as num from taoquli_tradelist where checked=1-----17:37:24
+::1-----select count(1) as num from taoquli_msg where see=0 and uid=0-----17:37:24
+::1-----select count(1) as num from taoquli_duihuan where status=0-----17:37:24
+::1-----select count(1) as num from taoquli_tixian where status=0-----17:37:24
+::1-----select count(1) as num from taoquli_hezuo where status=0-----17:37:24
+::1-----select count(1) as num from taoquli_baobei where status=2-----17:37:24
+::1-----select sum(money) as sum from taoquli_tixian where type=1 and status=1 and dotime >= "1469548800" and dotime < "1469635199"-----17:37:24
+::1-----select sum(money) as sum from taoquli_tixian where type=2 and status=1 and dotime >= "1469548800" and dotime < "1469635199"-----17:37:24
+::1-----select sum(spend) as sum from taoquli_duihuan where mode=1 and status=1 and addtime >= "1469548800" and addtime < "1469635199"-----17:37:24
+::1-----select count(1) as num from taoquli_user where 1 and regtime >= "2016-07-27 00:00:00" and regtime < "2016-07-27 23:59:59"-----17:37:24
+::1-----select sum(real_pay_fee) as sum from taoquli_tradelist where 1 and pay_time >= "2016-07-27 00:00:00" and pay_time < "2016-07-27 23:59:59"-----17:37:24
+::1-----select sum(commission) as sum from taoquli_tradelist where 1 and pay_time >= "2016-07-27 00:00:00" and pay_time < "2016-07-27 23:59:59"-----17:37:24
+::1-----select count(1) as num from taoquli_tradelist where 1 and pay_time >= "2016-07-27 00:00:00" and pay_time < "2016-07-27 23:59:59"-----17:37:24
+::1-----select count(1) as num from taoquli_tradelist where checked=2 and pay_time >= "2016-07-27 00:00:00" and pay_time < "2016-07-27 23:59:59"-----17:37:24
+::1-----select sum(sales) as sum from taoquli_mall_order where status=1 and order_time >= "1469548800" and order_time < "1469635199"-----17:37:24
+::1-----select sum(commission) as sum from taoquli_mall_order where status=1 and order_time >= "1469548800" and order_time < "1469635199"-----17:37:24
+::1-----select count(1) as num from taoquli_mall_order where 1 and order_time >= "1469548800" and order_time < "1469635199"-----17:37:24
+::1-----select count(1) as num from taoquli_mall_order where status=1 and order_time >= "1469548800" and order_time < "1469635199"-----17:37:24
+::1-----select count(1) as num from taoquli_mall_order where status=0 and order_time >= "1469548800" and order_time < "1469635199"-----17:37:24
+::1-----select count(1) as num from taoquli_mall_order where uid=0 and order_time >= "1469548800" and order_time < "1469635199"-----17:37:24
+::1-----select sum(`point`) as `point`,sum(`commission`) as `commission` from taoquli_task where (immediate="1" or immediate="2") and addtime >= "2016-07-27 00:00:00" and addtime < "2016-07-27 23:59:59"-----17:37:24
+::1-----select count(1) as num from taoquli_task where 1 and addtime >= "2016-07-27 00:00:00" and addtime < "2016-07-27 23:59:59"-----17:37:24
+::1-----select count(1) as num from taoquli_task where (immediate="1" or immediate="2") and addtime >= "2016-07-27 00:00:00" and addtime < "2016-07-27 23:59:59"-----17:37:24
+::1-----select * from taoquli_kuaijie where 1 order by id asc -----17:37:24
+::1-----select title from taoquli_menu where `mod`="webset" and act="center" limit 1-----17:37:24
+::1-----set names utf8-----17:37:44
+::1-----select * from taoquli_webset where type=1 or type=0 -----17:37:44
+::1-----select * from taoquli_webset where type=2 -----17:37:44
+::1-----select val from taoquli_webset where var="authorize" limit 1-----17:37:44
+::1-----select a.id from taoquli_menu as a,taoquli_menu_access as b where a.`mod`="webset" and a.`act`="center" and a.id=b.menu_id and b.role_id="1" limit 1-----17:37:44
+::1-----select a.* from taoquli_menu as a,taoquli_menu_access as b where a.id=b.menu_id and b.role_id='1' and a.mod<>'fun' order by a.listorder desc,a.sort desc,a.id asc-----17:37:44
+::1-----select * from taoquli_webset where type=1 or type=0 -----17:37:44
+::1-----select * from taoquli_webset where type=2 -----17:37:44
+::1-----select * from taoquli_nav where hide="0" and pid=0 order by sort =0 ASC , sort ASC  -----17:37:44
+::1-----select * from taoquli_nav where hide="0" and pid<>0 order by sort =0 ASC , sort ASC  -----17:37:44
+::1-----select * from taoquli_api where open="1" order by sort asc -----17:37:44
+::1-----select * from taoquli_webset where type=1 or type=0 -----17:37:44
+::1-----select * from taoquli_webset where type=2 -----17:37:44
+::1-----select code,title,type from taoquli_service where 1=1 order by sort asc -----17:37:44
+::1-----select `title`,`replace` from taoquli_noword where 1=1 -----17:37:44
+::1-----select `title_arr`,`replace` from taoquli_noword where title_arr is not null and title_arr<>"" -----17:37:44
+::1-----select id,title,tag from taoquli_type order by sort asc-----17:37:44
+::1-----select id,title,web,web_open,email,email_open,sms,sms_open from taoquli_msgset where 1=1 -----17:37:44
+::1-----select * from taoquli_ad where 1=1 -----17:37:44
+::1-----delete from taoquli_buy_log where day<"20160627"-----17:37:44
+::1-----select * from taoquli_bankuai where 1 order by sort=0 ASC,tuijian desc,sort asc -----17:37:44
+::1-----select * from taoquli_cron where 1=1 -----17:37:44
+::1-----select * from taoquli_domain where 1=1 -----17:37:44
+::1-----select * from taoquli_taopid where 1=1 -----17:37:44

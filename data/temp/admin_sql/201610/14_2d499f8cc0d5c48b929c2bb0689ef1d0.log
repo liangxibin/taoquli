@@ -1,0 +1,24 @@
+115.216.16.193-----set names utf8-----04:03:30
+115.216.16.193-----select * from duoduo_webset where type=1 or type=0 -----04:03:30
+115.216.16.193-----select * from duoduo_webset where type=2 -----04:03:30
+115.216.16.193-----select val from duoduo_webset where var="authorize" limit 1-----04:03:30
+115.216.16.193-----update duoduo_webset set `val`='e095C8voOSMjPYRLEwGiVcRSLacBNJca8K2I4vsqzcTxBXds4gxtianEtmJow9lxby59xkoQmQE1b7AiJzh9xVpD1NZVLc3+FgB2cUCLetG/hj9s+I55VreUkMOA4VJb4OTqPEWyVDYe7hHYkF8fr5E9latGTVYVxRuXbhy6+moQ/3MO5lFtjzFSsjXGvhOht6ky546yI6txos6yi8mCIIhx7rLmE95p1iI0RYIB7YIurxqwbApjbofXBN7GCo37IPU+' where var="authorize" limit 1-----04:03:45
+115.216.16.193-----select * from duoduo_webset where type=1 or type=0 -----04:03:45
+115.216.16.193-----select * from duoduo_webset where type=2 -----04:03:45
+115.216.16.193-----set names utf8-----04:03:46
+115.216.16.193-----select * from duoduo_webset where type=1 or type=0 -----04:03:46
+115.216.16.193-----select * from duoduo_webset where type=2 -----04:03:46
+115.216.16.193-----select val from duoduo_webset where var="authorize" limit 1-----04:03:46
+115.216.16.193-----set names utf8-----04:03:53
+115.216.16.193-----select * from duoduo_webset where type=1 or type=0 -----04:03:53
+115.216.16.193-----select * from duoduo_webset where type=2 -----04:03:53
+115.216.16.193-----select val from duoduo_webset where var="authorize" limit 1-----04:03:53
+115.216.16.193-----select * from duoduo_duoduo2010 where adminname="taoquli" and adminpass="1cbd23790c944dff30e0b976962eb2b9" limit 1-----04:03:53
+115.216.16.193-----set names utf8-----04:03:55
+115.216.16.193-----select * from duoduo_webset where type=1 or type=0 -----04:03:55
+115.216.16.193-----select * from duoduo_webset where type=2 -----04:03:55
+115.216.16.193-----select val from duoduo_webset where var="authorize" limit 1-----04:03:55
+115.216.16.193-----set names utf8-----04:03:55
+115.216.16.193-----select * from duoduo_webset where type=1 or type=0 -----04:03:55
+115.216.16.193-----select * from duoduo_webset where type=2 -----04:03:55
+115.216.16.193-----select val from duoduo_webset where var="authorize" limit 1-----04:03:55
